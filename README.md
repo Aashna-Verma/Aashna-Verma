@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aashna Verma!</h1>
 
-<h3>About Me<h3>  
+<h3>About Me</h3>  
 
 - 🎓 I'm currently a Software Engineering student at Carleton University.
 
 - 🔭 I’m currently working on a [3D TicTacToe](https://github.com/Aashna-Verma/MegaTicTacToe) project.
 
-- ✨ Check out my [website](https://aashna-verma.github.io/)! It's still underconstruction, but I plan to showcase more than just projects!<p>
+- ✨ Check out my [website](https://aashna-verma.github.io/)! It's still underconstruction, but I plan to showcase more than just projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
