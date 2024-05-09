@@ -13,10 +13,10 @@
 <p align="left">
 <div align="left">
     <!-- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
-    <a href="mailto:aashna.verma@outlook.com" target="blank">
+    <a href="mailto:aashna.verma@outlook.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="email logo" /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/aashna-verma-000/" target="blank">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/aashna-verma-000/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="linkedin logo" /></a>
 </div>
